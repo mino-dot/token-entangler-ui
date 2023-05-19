@@ -3,6 +3,4 @@ node_modules
 .yarn
 .vscode
 .env
-yarn.lock
-package-lock.json
 build
